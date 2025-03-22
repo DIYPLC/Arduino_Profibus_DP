@@ -15,10 +15,13 @@
 // Реализация для MSP430F2252
 // https://www.mikrocontroller.net/topic/106174
 // https://www.mikrocontroller.net/attachment/37699/profibus.c
+// Реализация на STM32
+// https://habr.com/ru/articles/748844/
+// https://github.com/RisingEdge19/STM32-PROFIBUS-Controller
 
 //                 DD1
 //           +------------+
-//           | MAX3085ESA |
+//           | ADM485ANZ  |
 // |1       1|            |8    8|
 // +---------+RO       VCC+------+
 // |2       2|            |7    7|
